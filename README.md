@@ -63,7 +63,7 @@ Assuming there are no errors and the site is building properly, follow these ste
     ---
     ```
 
-    For reference, look at the [demo repository](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) to see how the files are set up.
+    For reference, look at the [demo repository]( https://aromakhan13.github.io/demo.github.io/) to see how the files are set up.
 
 5. Add the form to the `contact.html` page. Add the following code to your `contact.html` page:
 
